@@ -2,7 +2,7 @@ name: otel_confluence
 description: >-
   OpenTelemetry instrumentation for confluence by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use confluence.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_confluence
 homepage: https://dartastic.io
 
